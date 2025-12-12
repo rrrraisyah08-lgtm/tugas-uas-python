@@ -1,4 +1,4 @@
-# 📦 Sistem Manajemen Apotek (CLI Python)
+# 📦 Sistem Manajemen Apotek 
 
 Aplikasi Python berbasis **Console (CLI)** untuk mengelola data **Obat, Penjualan, dan Resep** dengan konsep **OOP, modularisasi, dan SQLite**.  
 Project ini sangat cocok untuk **tugas UAS** atau latihan membuat aplikasi Python terstruktur.
@@ -20,8 +20,8 @@ Menu dikontrol dari `main.py` dan `utils/ui.py`.
 ### ✔ SQLite Database
 Seluruh data disimpan di file `apotek.db`.
 
-### ✔ Cocok untuk Tugas Kuliah / UAS
-Menggunakan:
+
+### Menggunakan:
 - OOP  
 - Percabangan  
 - Perulangan  
@@ -116,13 +116,16 @@ Silakan isi dengan:
 > Nama file boleh pakai contoh di bawah.
 
 ### **1. Lihat Resep**
-![Lihat Resep](screenshots/lihat_resep.png)
+![Lihat Resep](https://github.com/user-attachments/assets/96051f48-f20b-45ad-83d2-57091d69b7a8)
+
 
 ### **2. Menu Pesan / Input Resep**
-![Menu Pesan](screenshots/pesan.png)
+![Menu Pesan](https://github.com/user-attachments/assets/ae7f8de7-4163-4f1f-a26b-91e96e80e388)
+
 
 ### **3. Tambah Obat & Daftar Obat**
-![Tambah Obat](screenshots/tambah_harga_obat.png)
+![Tambah Obat](https://github.com/user-attachments/assets/04cfcd8d-8988-4f7f-90a0-751cf1aa3cb2)
+
 
 ---
 
