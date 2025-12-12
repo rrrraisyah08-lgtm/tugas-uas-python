@@ -120,7 +120,8 @@ Silakan isi dengan:
 
 
 ### **2. Pesan**
-![Menu Pesan](LINK-YANG-OTOMATIS-MUNCUL-DARI-GITHUB)
+<img width="1366" height="768" alt="pesan" src="https://github.com/user-attachments/assets/4cbc267e-3a11-4470-a34c-260ddda1c8a7" />
+
 
 
 ### **3. Tambah Obat & Daftar Obat**
