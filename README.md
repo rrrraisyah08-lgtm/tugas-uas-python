@@ -116,16 +116,13 @@ Silakan isi dengan:
 > Nama file boleh pakai contoh di bawah.
 
 ### **1. Lihat Resep**
-![Lihat Resep](https://github.com/user-attachments/assets/96051f48-f20b-45ad-83d2-57091d69b7a8)
+<img src="https://github.com/user-attachments/assets/96051f48-f20b-45ad-83d2-57091d69b7a8" width="500"/>
 
 
 ### **2. Pesan**
-<img width="1366" height="768" alt="pesan" src="https://github.com/user-attachments/assets/4cbc267e-3a11-4470-a34c-260ddda1c8a7" />
+<img src="https://github.com/user-attachments/assets/4cbc267e-3a11-4470-a34c-260ddda1c8a7" width="500"/>
 
 
-
-### **3. Tambah Obat & Daftar Obat**
-![Tambah Obat](https://github.com/user-attachments/assets/NEW-LINK-DARI-GITHUB)
 
 
 ---
