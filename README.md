@@ -1,7 +1,7 @@
 # 📦 Sistem Manajemen Apotek 
 
 Aplikasi Python berbasis **Console (CLI)** untuk mengelola data **Obat, Penjualan, dan Resep** dengan konsep **OOP, modularisasi, dan SQLite**.  
-Project ini sangat cocok untuk **tugas UAS** atau latihan membuat aplikasi Python terstruktur.
+
 
 ---
 
@@ -56,7 +56,6 @@ apotek_app/
 └── screenshots/
 lihat_resep.png
 pesan.png
-tambah_harga_obat.png
 
 yaml
 Copy code
