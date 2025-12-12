@@ -120,7 +120,7 @@ Silakan isi dengan:
 
 
 ### **2. Menu Pesan / Input Resep**
-![Menu Pesan](https://github.com/user-attachments/assets/2398471923abcdabbc.png)
+![Menu Pesan](https://github.com/user-attachments/assets/PASTE-LINK-MENU-PESAN-DISINI)
 
 
 
