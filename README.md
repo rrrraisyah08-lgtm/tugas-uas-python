@@ -120,7 +120,7 @@ Silakan isi dengan:
 
 
 ### **2. Menu Pesan / Input Resep**
-![image](https://github.com/user-attachments/assets/2bd8b8e3-xxxxx-xxxx-xxxx)
+![Menu Pesan](LINK-YANG-OTOMATIS-MUNCUL-DARI-GITHUB)
 
 
 
