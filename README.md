@@ -119,11 +119,8 @@ Silakan isi dengan:
 ![Lihat Resep](https://github.com/user-attachments/assets/96051f48-f20b-45ad-83d2-57091d69b7a8)
 
 
-### **2. Menu Pesan / Input Resep**
+### **2. Pesan**
 ![Menu Pesan](LINK-YANG-OTOMATIS-MUNCUL-DARI-GITHUB)
-
-
-
 
 
 ### **3. Tambah Obat & Daftar Obat**
