@@ -120,12 +120,12 @@ Silakan isi dengan:
 
 
 ### **2. Menu Pesan / Input Resep**
-![Menu Pesan](https://github.com/user-attachments/assets/ae7f8de7-4163-4f1f-a26b-91e96e80e388)
+![Menu Pesan](https://github.com/user-attachments/assets/NEW-LINK-DARI-GITHUB)
 
 
 
 ### **3. Tambah Obat & Daftar Obat**
-![Tambah Obat](https://github.com/user-attachments/assets/04cfcd8d-8988-4f7f-90a0-751cf1aa3cb2)
+![Tambah Obat](https://github.com/user-attachments/assets/NEW-LINK-DARI-GITHUB)
 
 
 ---
